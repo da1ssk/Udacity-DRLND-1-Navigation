@@ -1,6 +1,4 @@
 # Udacity Deep Reinforcement Learning Nanodegree Project #1: Navigation
-
-## Project detail
 In this project, we train an agent to navigate and collect bananas in a 3D square space.
 
 The simulation environment is based on Unity Environment. The code is available [here](https://github.com/udacity/deep-reinforcement-learning/tree/master/python/unityagents)
