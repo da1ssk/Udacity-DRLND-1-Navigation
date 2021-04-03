@@ -14,7 +14,7 @@ The hyperparameters that are passed to `dqn` function is modified so it will mat
 - `eps_end = 0.01`  # minimum value of epsilon
 - `eps_decay = 0.995`  # multiplicative factor per every episode for decreasing epsilon
 
-### Agent ([`dqn_agent.py`](https://github.com/da1ssk/Udacity-DRLND-1-Navigation/blob/main/dqn_agent.py))
+### Agent ([`dqn_agent.py`](dqn_agent.py))
 I use the `Agent` class from the exercises as is.
 
 Here are the hyperparameters.
@@ -25,7 +25,7 @@ Here are the hyperparameters.
 - `LR = 5e-4`               # learning rate 
 - `UPDATE_EVERY = 4`        # how often to update the network
 
-### Model architecture ([`model.py`](https://github.com/da1ssk/Udacity-DRLND-1-Navigation/blob/main/model.py))
+### Model architecture ([`model.py`](model.py))
 I use the `QNetwork` class from the exercises as is, too.
 
 It is a neural network with fully-connected layers. First and second hidden layer is followed by a rectifier nonlinearity (that is, `max(0,x)`).
