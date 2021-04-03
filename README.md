@@ -15,7 +15,7 @@ There are 37 states in this environment. Those include the agent's velocity and 
 However, there is no clear description of each state element from Udacity as discussed [here](https://knowledge.udacity.com/questions/22697)
 
 ### Actions
-The agent can take 4 actions.
+The agent can take 4 discrete actions.
 
 0. Move forward
 1. Move backward.
@@ -23,9 +23,9 @@ The agent can take 4 actions.
 3. Turn right.
 
 ### Criteria
-If the average score of the latest 100 episodes is more than 13, it is consider as solved.
+If the average score of the latest 100 episodes exceeds +13, it is considered as solved.
 
 ## Getting started
 Load `Navigation.ipynb` in Jupyter notebook, then follow the instruction.
 
-You will need the `python` directory that is available [here](https://classroom.udacity.com/nanodegrees/nd893/parts/6b0c03a7-6667-4fcf-a9ed-dd41a2f76485/modules/e7499d4f-24f9-42ec-9864-23adcfa4e241/lessons/69bd42c6-b70e-4866-9764-9bfa8c03cdea/concepts/b6729be0-4a97-4c8d-b2c9-9eafe47939ac) in Udacity workspace.
+You will need the `python` directory that is available [here](https://classroom.udacity.com/nanodegrees/nd893/parts/6b0c03a7-6667-4fcf-a9ed-dd41a2f76485/modules/e7499d4f-24f9-42ec-9864-23adcfa4e241/lessons/69bd42c6-b70e-4866-9764-9bfa8c03cdea/concepts/b6729be0-4a97-4c8d-b2c9-9eafe47939ac) in the Udacity workspace. Click the "Jupyter" logo to see the `python` directory.
