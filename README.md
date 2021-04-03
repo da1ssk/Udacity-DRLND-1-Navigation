@@ -26,14 +26,6 @@ The agent can take 4 actions.
 If the average score of the latest 100 episodes is more than 13, it is consider as solved.
 
 ## Getting started
+Load `Navigation.ipynb` in Jupyter notebook, then follow the instruction.
 
-## How to run the code
-
-
-# Report content
-## Learning algorithm
-
-## Plot of rewards
-
-## Future work
-
+You will need the `python` directory that is available [here](https://classroom.udacity.com/nanodegrees/nd893/parts/6b0c03a7-6667-4fcf-a9ed-dd41a2f76485/modules/e7499d4f-24f9-42ec-9864-23adcfa4e241/lessons/69bd42c6-b70e-4866-9764-9bfa8c03cdea/concepts/b6729be0-4a97-4c8d-b2c9-9eafe47939ac) in Udacity workspace.
