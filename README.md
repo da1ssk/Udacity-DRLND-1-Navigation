@@ -10,9 +10,7 @@ The simulation environment is based on Unity Environment. The code is available 
 - -1 for getting a blue banana
 
 ### States
-There are 37 states in this environment.
-
-Those include the agent's velocity and ray-based perception of objects around the agent's forward direction.
+There are 37 states in this environment. Those include the agent's velocity and ray-based perception of objects around the agent's forward direction.
 
 However, there is no clear description of each state element from Udacity as discussed [here](https://knowledge.udacity.com/questions/22697)
 
